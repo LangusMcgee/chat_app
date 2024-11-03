@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\MainWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:MainWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\MainWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:MainWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\Timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:Timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\CWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:CWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\CWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:CWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timer.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\Timer.cpp",
+              "RelativeDocumentMoniker": "Timer.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\Timer.cpp",
+              "RelativeToolTip": "Timer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T18:16:44.506Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Timer.h",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\Timer.h",
+              "RelativeDocumentMoniker": "Timer.h",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\Timer.h",
+              "RelativeToolTip": "Timer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T18:16:36.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.h",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\MainWindow.h",
+              "RelativeDocumentMoniker": "MainWindow.h",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\MainWindow.h",
+              "RelativeToolTip": "MainWindow.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T09:13:07.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\MainWindow.cpp",
+              "RelativeDocumentMoniker": "MainWindow.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\MainWindow.cpp",
+              "RelativeToolTip": "MainWindow.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T09:13:14.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T15:16:32.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CWidget.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\CWidget.cpp",
+              "RelativeDocumentMoniker": "CWidget.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\CWidget.cpp",
+              "RelativeToolTip": "CWidget.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T21:22:16.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CWidget.h",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\CWidget.h",
+              "RelativeDocumentMoniker": "CWidget.h",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\GUI-stuff\\CWidget.h",
+              "RelativeToolTip": "CWidget.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T21:18:27.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
