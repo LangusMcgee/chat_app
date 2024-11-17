@@ -24,6 +24,7 @@
     <ProjectGuid>{3a3468c3-8103-467c-b463-f1bc14b2039a}</ProjectGuid>
     <RootNamespace>pfisandbox</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>ChatApp</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -133,15 +134,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ClientSocket.cpp" />
     <ClCompile Include="CWidget.cpp" />
     <ClCompile Include="CWidget.h" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MainWindow.cpp" />
+    <ClCompile Include="ServerSocket.cpp" />
     <ClCompile Include="Timer.cpp" />
+    <ClCompile Include="wsa.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ClientSocket.h" />
     <ClInclude Include="MainWindow.h" />
+    <ClInclude Include="ServerSocket.h" />
     <ClInclude Include="Timer.h" />
+    <ClInclude Include="wsa.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

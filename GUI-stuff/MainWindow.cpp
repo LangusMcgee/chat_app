@@ -1,4 +1,6 @@
 #include "MainWindow.h"
+#include "ServerSocket.h"
+#include "ClientSocket.h"
 #include <iostream>
 #include <stdexcept>
 
@@ -32,15 +34,9 @@ MainWindow::MainWindow()
 	//m_content.color(fl_rgb_color(255, 255, 255));
 	//m_content.box(FL_DOWN_BOX);
 
-	m_menubar.add("&File/&Open", "^o", NULL);
-	m_menubar.add("&File/&Save", "^s", NULL, 0, FL_MENU_DIVIDER);
-	m_menubar.add("&File/&Quit", "^q", NULL);
-
-	m_menubar.add("&Edit/&Undo", "^z", NULL);
-	m_menubar.add("&Edit/&Redo", "^y", NULL, 0, FL_MENU_DIVIDER);
-	m_menubar.add("&Edit/&Copy", "^c", NULL);
-	m_menubar.add("&Edit/&Paste", "^v", NULL);
-
+	m_menubar.add("&Create Server", NULL, NULL);
+	m_menubar.add("&Join Server", NULL, NULL, 0, FL_MENU_DIVIDER);
+	m_menubar.add("&Quit", NULL, NULL);
 	m_menubar.add("&Help/&About", NULL, NULL);
 }
 
@@ -57,5 +53,5 @@ void MainWindow::on_close(Fl_Widget* _Widget, void* _userdata)
 
 void MainWindow::on_tick()
 {
-	std::cout << "tick" << std::endl;
+	//std::cout << "tick, this is in the 'on_tick' virtual func in MainWindow.cpp..." << std::endl;
 }

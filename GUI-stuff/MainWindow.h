@@ -7,14 +7,19 @@
 #include "FL/Fl_Box.h"
 #include "CWidget.h"
 #include "Timer.h"
-class MainWindow : public Fl_Window, public Timer
+struct ServerSocket;
+struct ClientSocket;
+struct MainWindow : public Fl_Window, public Timer
 {
 public:
 	MainWindow();
 	~MainWindow();
 private:
+	ServerSocket* m_server;
+	ClientSocket* m_client;
 	static void on_close(Fl_Widget* _Widget, void* _userdata);
 	void on_tick() override;
+
 	Fl_Flex m_maincol;
 	Fl_Flex m_bottomrow;
 	Fl_Menu_Bar m_menubar;

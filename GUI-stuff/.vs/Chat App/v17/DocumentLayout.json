@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ServerSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:ServerSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ServerSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:ServerSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ClientSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:ClientSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ClientSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:ClientSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\wsa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:wsa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\wsa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:wsa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\MainWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:MainWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\MainWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:MainWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\CWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:CWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\CWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3468C3-8103-467C-B463-F1BC14B2039A}|pfi_sandbox.vcxproj|solutionrelative:CWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Timer.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\Timer.cpp",
+              "RelativeDocumentMoniker": "Timer.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\Timer.cpp",
+              "RelativeToolTip": "Timer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:28:07.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientSocket.h",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ClientSocket.h",
+              "RelativeDocumentMoniker": "ClientSocket.h",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ClientSocket.h",
+              "RelativeToolTip": "ClientSocket.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T17:30:19.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientSocket.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ClientSocket.cpp",
+              "RelativeDocumentMoniker": "ClientSocket.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ClientSocket.cpp",
+              "RelativeToolTip": "ClientSocket.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T17:30:10.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerSocket.h",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ServerSocket.h",
+              "RelativeDocumentMoniker": "ServerSocket.h",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ServerSocket.h",
+              "RelativeToolTip": "ServerSocket.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T17:30:18.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerSocket.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ServerSocket.cpp",
+              "RelativeDocumentMoniker": "ServerSocket.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\ServerSocket.cpp",
+              "RelativeToolTip": "ServerSocket.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwEQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T17:30:13.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T15:16:32.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.h",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\MainWindow.h",
+              "RelativeDocumentMoniker": "MainWindow.h",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\MainWindow.h",
+              "RelativeToolTip": "MainWindow.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T09:13:07.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\MainWindow.cpp",
+              "RelativeDocumentMoniker": "MainWindow.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\MainWindow.cpp",
+              "RelativeToolTip": "MainWindow.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T09:13:14.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "wsa.h",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\wsa.h",
+              "RelativeDocumentMoniker": "wsa.h",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\wsa.h",
+              "RelativeToolTip": "wsa.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T17:30:17.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "wsa.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\wsa.cpp",
+              "RelativeDocumentMoniker": "wsa.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\wsa.cpp",
+              "RelativeToolTip": "wsa.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T17:30:14.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CWidget.cpp",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\CWidget.cpp",
+              "RelativeDocumentMoniker": "CWidget.cpp",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\CWidget.cpp",
+              "RelativeToolTip": "CWidget.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T21:22:16.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CWidget.h",
+              "DocumentMoniker": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\CWidget.h",
+              "RelativeDocumentMoniker": "CWidget.h",
+              "ToolTip": "D:\\Bournemouth Uni\\Year-2\\PFI\\Assignment1\\Main\\chat_app\\GUI-stuff\\CWidget.h",
+              "RelativeToolTip": "CWidget.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T21:18:27.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

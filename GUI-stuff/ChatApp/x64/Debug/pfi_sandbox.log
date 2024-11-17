@@ -1,0 +1,3 @@
+﻿  ServerSocket.cpp
+D:\Bournemouth Uni\Year-2\PFI\Assignment1\Main\chat_app\GUI-stuff\ServerSocket.cpp(30,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  pfi_sandbox.vcxproj -> D:\Bournemouth Uni\Year-2\PFI\Assignment1\Main\chat_app\GUI-stuff\x64\Debug\ChatApp.exe
